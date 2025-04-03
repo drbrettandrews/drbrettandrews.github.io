@@ -11,54 +11,51 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Management/Decision Science, Walden University
+* M.S. in Data Science, Eastern University
+* MBA, Oral Roberts University
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023 to Present: Dean & Professor of Data Science
+  * Belhaven University
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019 to 2023: Senior VP for Academic Innovation
+  * Oklahoma Wesleyan University
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016 to 2019: Founding Dean, School of Business
+  * Newman University
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Tech Toolbox Stuff
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+### Languages
+- Python
+- R
+- SQL
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### Favorite Frameworks
+- Flask
+- Pandas & NumPy 
+- Scikit-learn 
+- Matplotlib & Seaborn 
+- PyTorch
+- TensorFlow
+
+### Tools
+- Jupyter Notebooks
+- SQL 
+- Tableau 
+- Excel 
+- Git & GitHub
+- VS Code & PyCharm 
+- AWS (e.g., S3 for storage, SageMaker for machine learning experiments)
+- Google Colab
+
+### Specialties
+- Data Science & Machine Learning 
+- Business Analytics & Decision Support Systems
+- AI Integration in Higher Education and Strategy
+- Data Science Curriculum Development
+- Ethical Implications of Technology
+- Writing and Publishing Educational Material (e.g., books, courses)
+- Statistical Techniques for Decision Making
